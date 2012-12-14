@@ -1,4 +1,4 @@
-<div class="navbar">
+<div class="navbar navbar-static-top">
 	<div class="navbar-inner">
 		<a class="brand"> timBOOKtu </a>
 		<ul class="nav">
