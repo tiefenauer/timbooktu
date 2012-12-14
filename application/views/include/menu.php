@@ -12,9 +12,9 @@
 				<a href="about">About</a>
 			</li>
 			<li class="divider-vertical pull-right"></li>
-			<form class="navbar-search pull-right">
-				<input class="search-query" type="text" placeholder="Search"/>
-			</form>
 		</ul>
+		<form class="navbar-search pull-right">
+			<input class="search-query" type="text" placeholder="Search"/>
+		</form>
 	</div>
 </div>
